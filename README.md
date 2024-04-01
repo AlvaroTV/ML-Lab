@@ -17,4 +17,4 @@ This repository includes experiments with various deep learning architectures, i
 Contributions to this repository are welcome! If you have implemented a new model architecture, optimization algorithm, or any other relevant contribution, feel free to submit a pull request. Please ensure that your code adheres to best practices and includes appropriate documentation.
 
 # Contact
-For questions, feedback, or inquiries, please contact alvaroed.tv@gmail.com.
+For questions, feedback, or inquiries, please contact alvaroed.tv@gmail.com
